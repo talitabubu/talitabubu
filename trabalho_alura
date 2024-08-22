@@ -1,1 +1,28 @@
 index.html
+<html lang="pt-br">
+  <head>
+        <lin
+
+
+
+  </head>
+  
+  <body>
+        <main>
+            <div classe="passo ativo" id="passe-0">
+                <p> Seja bem vindo á aventura</p>
+                <button class="btn-proximo"data promixa="1" cenario 1 </button>
+                <button class="btn-proximo"data promixa="2" cenario 2 </button>
+
+            </div>
+        <div classe="passo" id="passe-1">
+            <p> Seja bem vindo á aventura</p>
+            <button class="btn-proximo"data promixa="3" cenario 3 </button>
+            <button class="btn-proximo"data promixa="4" cenario 4 </button>
+
+         </div>
+    </main>
+</body>
+</html>
+
+
